@@ -25,10 +25,10 @@
     },{
         "id":"E6",
         "nombre":"Miura Camp",
-        "dir_background":""
+        "dir_background":"img/Entretenimiento/Miura camp/miura camp.png"
     },{
         "id":"E7",
         "nombre":"Parque los Pinos",
-        "dir_background":""
+        "dir_background":"/img/Entretenimiento/Parque Los Pinos/parque de los pinos.png"
     }
 ]
