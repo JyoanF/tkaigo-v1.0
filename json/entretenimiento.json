@@ -1,0 +1,34 @@
+[
+    {
+        "id":"E1",
+        "nombre":"Campo deportivo el maracaná",
+        "dir_background":""
+    },
+    {
+        "id":"E2",
+        "nombre":"Villa deportiva Reaño",
+        "dir_background":""
+    },
+    {
+        "id":"E3",
+        "nombre":"Estadio Municipal Manuel Fumagali Pérsico de Huaura",
+        "dir_background":""
+    },{
+        "id":"E4",
+        "nombre":"Centro Deportivo la Alborada de Manolo",
+        "dir_background":""
+    },
+    {
+        "id":"E5",
+        "nombre":"Centro recreacional Campestre Mundo Natural Doña SEFE",
+        "dir_background":""
+    },{
+        "id":"E6",
+        "nombre":"Miura Camp",
+        "dir_background":""
+    },{
+        "id":"E7",
+        "nombre":"Parque los Pinos",
+        "dir_background":""
+    }
+]

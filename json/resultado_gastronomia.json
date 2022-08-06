@@ -1,0 +1,57 @@
+[
+    {        
+        "id":"G1",
+        "nombre":"Restaurante Antojitos",
+        "ubicacion":"Av. Coronel Portillo 242, Huaura 15138",
+        "descripcion":"Si buscas un lugar para comer algo bueno y a precios accesibles elige Restaurante Antojitos. Contamos con distintos platos clásicos de la gastronomía peruana. Atención de 9:00 AM a 22:00 PM. Ofrecemos servicio de delivery sin costos extras.",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir/-11.0990959,-77.6083596/Restaurante+Antojitos,+Av.+Coronel+Portillo+242,+Huaura+15138/@-11.0849356,-77.6118251,15z/data=!3m1!4b1!4m16!1m6!3m5!1s0x91072192f98ee649:0xb09ce604e073754a!2sRestaurante+Antojitos!8m2!3d-11.0707755!4d-77.5975848!4m8!1m1!4e1!1m5!1m1!1s0x91072192f98ee649:0xb09ce604e073754a!2m2!1d-77.5975848!2d-11.0707755",
+        "telefono":"955042399",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },{
+        "id":"G2",
+        "nombre":"Don Del Pato",
+        "ubicacion":"Psje. Simon Bolivar Mz A Lote #18",
+        "descripcion":"Ofrecemos alitas en todas las presentaciones, te invitamos a visitar este agradable restobar y disfrutar de una hermosa velada con amigos o familia. Atención desde las 6:30 PM.",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir/-11.0990959,-77.6083596/DON+DEL+PATO+-+ALITAS+PICANTES,+Av.+Coronel+Portillo+248,+Huaura+15138/@-11.0848919,-77.6118251,15z/data=!3m1!4b1!4m16!1m6!3m5!1s0x910721f21de21cab:0xe7c4f0e8a8d9fd11!2sDON+DEL+PATO+-+ALITAS+PICANTES!8m2!3d-11.0706952!4d-77.597546!4m8!1m1!4e1!1m5!1m1!1s0x910721f21de21cab:0xe7c4f0e8a8d9fd11!2m2!1d-77.597546!2d-11.0706952",
+        "telefono":"924082199",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },{
+        "id":"G3",
+        "nombre":"Pizza King",
+        "ubicacion":"Av. Juan Velazco 105, Huaura 15138",
+        "descripcion":"Pizza King brinda las mejores pizzas artesanales de Huaura, incluye servicio de delivery gratuito. ",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir/-11.0990959,-77.6083596/W9JW%2BGCX+Pizza+King+Huaura,+Huaura+15138/@-11.0838689,-77.6106309,15z/data=!3m1!4b1!4m16!1m6!3m5!1s0x9107214f9518cb15:0x6a2aad11586df9c6!2sPizza+King+Huaura!8m2!3d-11.0686422!4d-77.6038921!4m8!1m1!4e1!1m5!1m1!1s0x9107214f9518cb15:0x6a2aad11586df9c6!2m2!1d-77.6038921!2d-11.0686422 ",
+        "telefono":"961794089",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },{
+        "id":"G4",
+        "nombre":"Parrillón de Huaura",
+        "ubicacion":"Av. El Milagro 364",
+        "descripcion":"Parrillón de Huaura los espera en la esquina del sabor, Av Fumagalli con Av San Martín Huaura",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir/-11.0990959,-77.6083596/-11.0701774,-77.5978383/@-11.0846333,-77.6109606,15z/data=!3m1!4b1!4m4!4m3!1m1!4e1!1m0",
+        "telefono":"949081826",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },{
+        "id":"G5",
+        "nombre":"Churrasquería La Mumu",
+        "ubicacion":"Av. San Martin 414, Huaura 15138",
+        "descripcion":"Si buscas carne de res de calidad, churrasquería La Mumu ofrece una extensa carta de platillos, en donde se incluyen carne de res y algunos otros cásicos en un agradable ambiente en donde puedes disfrutar en familia. ",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir/-11.0990959,-77.6083596/Restaurant+Churrasquería+La+Mumu,+Av.+San+Martin+414,+Huaura+15138/@-11.0831873,-77.62058,14z/data=!3m1!4b1!4m16!1m6!3m5!1s0x0:0xfd94b1ced3325815!2sRestaurant+Churrasquería+La+Mumu!8m2!3d-11.0672696!4d-77.5992864!4m8!1m1!4e1!1m5!1m1!1s0x910721dc4be342b9:0xfd94b1ced3325815!2m2!1d-77.5992864!2d-11.0672696",
+        "telefono":"926774932",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },{
+        "id":"G6",
+        "nombre":"Pollería Huaura",
+        "ubicacion":"Esq. Simón Bolívar N°120 con la Antigua Panamericana Norte ",
+        "descripcion":"En la pollería Huaura podrás probar un jugoso pollo a la brasa y disfrutar de un adorable ambiente familiar, incluye juegos para niños y amplias mesas.",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir/-10.7452839,-77.7664635/POLLERÍA+HUAURA,+Calle+Bolívar+120,+Huaura+15138/@-10.8771548,-77.7989364,11z/data=!4m9!4m8!1m1!4e1!1m5!1m1!1s0x91072065bdc7f4f7:0x68cc3e41e94d2cdf!2m2!1d-77.5978775!2d-11.0702026",
+        "telefono":"957022739",
+        "dir_background_1":"",
+        "dir_background_2":""
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "id":"G1",
+        "nombre":"Restaurante Antojitos",
+        "dir_background":"/img/Gastronomia/Restaurante Antojitos/tequeños.png",
+        "logo":"/img/Gastronomia/Restaurante Antojitos/Logo antojitos.svg"
+    },
+    {
+        "id":"G2",
+        "nombre":"Don Del Pato",
+        "dir_background":"/img/Gastronomia/Don del pato/Fondo del pato.png",
+        "logo":"/img/Gastronomia/Don del pato/logo don del pato.svg"
+    },
+    {
+        "id":"G3",
+        "nombre":"Pizza King",
+        "dir_background":"/img/Gastronomia/Pizza king/Fondo pizza king.png",
+        "logo":"/img/Gastronomia/Pizza king/pizza king.svg"
+    },
+    {
+        "id":"G4",
+        "nombre":"Parrillón de Huaura",
+        "dir_background":"/img/Gastronomia/Parrillon de Huaura/Fondo pizza king (1).png",
+        "logo":"/img/Gastronomia/Parrillon de Huaura/Logo Parillon.svg"
+    },
+    {
+        "id":"G5",
+        "nombre":"Churrasquería La Mumu",
+        "dir_background":"/img/Gastronomia/Churrasqueria MUMU Huaura/fondo la mumu.png",
+        "logo":"/img/Gastronomia/Churrasqueria MUMU Huaura/Logo la mumu.svg"
+    },
+    {
+        "id":"G6",
+        "nombre":"Pollería Huaura",
+        "dir_background":"/img/Gastronomia/Polleria Huaura/fondo polleria huaura.png",
+        "logo":"/img/Gastronomia/Polleria Huaura/Logo Polleria.svg"
+    }
+]

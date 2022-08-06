@@ -1,0 +1,62 @@
+[
+    {
+        "id":"E1",
+        "nombre":"Campo deportivo el maracaná",
+        "ubicacion":"W9MV+55R, Huaura 15138",
+        "descripcion":"Campo de grass sintético con horarios desde las 9 am, hasta las 11 pm, el cual está disponible para cualquier tipo de eventos deportivos para grandes y chicos.",
+        "url_ruta_gmaps":"https://www.google.com/maps/place/Campo+deportivo+El+Maracaná/@-11.0670147,-77.607119,15z/data=!4m2!3m1!1s0x0:0x44bff709994adeb?sa=X&ved=2ahUKEwi0gYj0zp_5AhWWAbkGHQIQAFcQ_BJ6BAg2EAU",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },
+    {
+        "id":"E2",
+        "nombre":"Villa deportiva Reaño",
+        "ubicacion":"Av. Ancash, Huaura 15138",
+        "descripcion":"Ofrecemos dos campos sintéticos para la práctica de fulbito, un campo de grass natural para el fútbol, un campo para el voleibol, un restaurante campestre y áreas de esparcimiento.",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir//villa+deportiva+reaño/data=!4m6!4m5!1m1!4e2!1m2!1m1!1s0x910721bb57530f3b:0x56f55f8451da9b4f?sa=X&ved=2ahUKEwiypYnm0Z_5AhXUA7kGHf1xA6cQ9Rd6BAgFEAM",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },
+    {
+        "id":"E3",
+        "nombre":"Estadio Municipal Manuel Fumagali Pérsico de Huaura",
+        "ubicacion":"W9JW+9X2, Huaura 15138",
+        "descripcion":"El estadio municipal ofrece un campo de gras natural americano dedicado a las actividades deportivas en futbol soccer y otras actividades, promoviendo el deporte entre la localidad.",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir//W9JW%2B9X2+Estadio+Municipal+Manuel+Fumagali+Pérsico+de+Huaura,+Huaura+15138/@-11.0689743,-77.6046088,17.54z/data=!4m9!4m8!1m0!1m5!1m1!1s0x91072063fa1309c9:0xd53ffedb8401974c!2m2!1d-77.6025941!2d-11.0691035!3e0",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },{
+        "id":"E4",
+        "nombre":"Centro Deportivo la Alborada de Manolo",
+        "ubicacion":"Ave San Martin 296, Huacho 15138",
+        "descripcion":"Club deportivo a disposicion de fomentar el deporte saludable mediante el uso de los campos de gras americano dedicado a diferentes actividades deportivas.",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir/-10.7912518,-77.7337622/centros+de+entretenimiento+en+el+distrito+de+huaura/@-10.9420045,-77.7981385,11z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x9106df8e9311db67:0x8f53ce32f788bee7!2m2!1d-77.593048!2d-11.0922584",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },
+    {
+        "id":"E5",
+        "nombre":"Centro recreacional Campestre Mundo Natural Doña SEFE",
+        "ubicacion":"Huaura 15138",
+        "descripcion":"Nuestro centro campestre ofrece una atencion al aire libre rodeado de naturaleza y disponibilidad de una piscina general para las actividades recreativas de nuestros visitantes.",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir/-10.7912518,-77.7337622/centros+de+entretenimiento+en+el+distrito+de+huaura/@-10.9248383,-77.8078319,11z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x91072172f410dc21:0x99ffab9742e12a99!2m2!1d-77.6232321!2d-11.0566201",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },{
+        "id":"E6",
+        "nombre":"Miura Camp",
+        "ubicacion":"Ex Hacienda Ruquia, Huaura",
+        "descripcion":"Aquí disfrutaras un encuentro con la naturaleza alejado de los ruidos urbanos, podrás disfrutar del campo y el aire puro del mar, ademas de contar con una piscina de agua pura de puquial.",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir/-11.0990959,-77.6083596/X928%2B76+MIURA+CAMP.+Campamento%2Frecreación.,+Ruquia+15160/@-11.0736626,-77.6333941,14z/data=!3m1!4b1!4m16!1m6!3m5!1s0x9107210477c43e43:0x9ae1e9c2d2be84e9!2sMIURA+CAMP.+Campamento%2Frecreación.!8m2!3d-11.0492343!4d-77.6343993!4m8!1m1!4e1!1m5!1m1!1s0x9107210477c43e43:0x9ae1e9c2d2be84e9!2m2!1d-77.6343993!2d-11.0492343",
+        "dir_background_1":"",
+        "dir_background_2":""
+    },{
+        "id":"E7",
+        "nombre":"Parque los Pinos",
+        "ubicacion":"Av. Antonio Raymondi, Huaura 15138",
+        "descripcion":"Si buscas un lugar tranquilo, con amplio espacio recreativo, este es el lugar, el parque los pinos",
+        "url_ruta_gmaps":"https://www.google.com/maps/dir/-11.0990959,-77.6083596/W9JW%2BC9C+Parque+Los+Pinos,+Av.+Antonio+Raymondi,+Huaura+15138/@-11.0839723,-77.6193858,14z/data=!3m1!4b1!4m16!1m6!3m5!1s0x0:0x52632a1a75d7b390!2sParque+Los+Pinos!8m2!3d-11.068934!4d-77.604102!4m8!1m1!4e1!1m5!1m1!1s0x91072063d993bcb5:0x52632a1a75d7b390!2m2!1d-77.604102!2d-11.068934",
+        "dir_background_1":"",
+        "dir_background_2":""
+    }
+]

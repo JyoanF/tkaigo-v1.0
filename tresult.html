@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>T'KaiGO | Polleria Huaura</title>
+    <link rel="icon" href="img/logo/icon.ico">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa"
+        crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="css/vista.css">
+</head>
+
+<body>
+    <header>
+        <br>
+        <div class="container">
+            <nav class="navbar navbar-expand-lg cont-center">
+                <div class="">
+                    <img src="img/logo/logo.svg" alt="" width="180px">
+                </div>
+            </nav>
+        </div>
+    </header>
+    <br>
+    <section class="cont-center">
+        <div class="card" style="width: 21rem;">
+            <div class="">
+                <img src="img/Turismo/BalcónDeHuaura/imagen_1_BalconHuaura.png" class="card-img-top card-bg img-fluid" alt="..."/>
+
+            </div>
+            <div class="card-body">
+                <h5 class="card-title">Balcón de Huaura</h5>
+                <span class="card-dir">WCH2+VF8, Huaura 15138</span><br><br>
+                <p class="card-text">El balcón de Huaura es un monumento ubicado en la plaza de armas de Huaura desde donde José de San Martín declaró por primera vez la independencia del Perú. Fue declarado monumento histórico por la Ley N.º 9636 del 28 de octubre de 1942. El Balcón de Huaura es una casa construida a base de adobe, caña y madera y en su interior se encuentran varios compartimentos seleccionados con ilustraciones de Próceres de la Independencia del Perú, también instrumentos bélicos utilizados en la época, prendas de uniformes, sables, entre otros.</p>
+
+                <div class="d-inline">
+                    <div>
+                        <button class="btn btn-danger" type="button" data-bs-toggle="offcanvas"
+                            data-bs-target="#offcanvasRight" aria-controls="offcanvasRight">Ver galeria <img
+                            src="img/logo/cam.svg" height="25" alt=""/></button>
+                    </div><hr>
+                    <div class="text-end">
+                        <h4 class="text-center">¿CÓMO LLEGAR?</h4><br>
+                        <button class="btn btn-primary" type="button" data-bs-toggle="offcanvas"
+                            data-bs-target="#staticBackdrop" aria-controls="staticBackdrop">Ampliar Mapa <img
+                                src="img/logo/gps.svg" height="25" alt=""/></button>
+                    </div>
+                </div>
+                <br>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d2768.7187036702035!2d-77.59760431630403!3d-11.071612476656384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d-11.0748549!2d-77.5983933!4m5!1s0x91072065b06a007d%3A0x479b14c2a77da518!2sBalc%C3%B3n%20de%20Huaura!3m2!1d-11.070285799999999!2d-77.5988077!5e0!3m2!1ses!2spe!4v1659634716678!5m2!1ses!2spe"
+                    width="300" height="250" allowfullscreen="" loading="lazy"
+                    referrerpolicy="no-referrer-when-downgrade" class="cont-map img-fluid"></iframe>
+            </div>
+            <div class="offcanvas offcanvas-start" data-bs-backdrop="static" tabindex="-1" id="staticBackdrop"
+                aria-labelledby="staticBackdropLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="staticBackdropLabel">Mapa</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <div>
+                        <iframe
+                            src="https://www.google.com/maps/embed?pb=!1m26!1m12!1m3!1d2768.7187036702035!2d-77.59760431630403!3d-11.071612476656384!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m11!3e6!4m3!3m2!1d-11.0748549!2d-77.5983933!4m5!1s0x91072065b06a007d%3A0x479b14c2a77da518!2sBalc%C3%B3n%20de%20Huaura!3m2!1d-11.070285799999999!2d-77.5988077!5e0!3m2!1ses!2spe!4v1659634716678!5m2!1ses!2spe"
+                            style="border:0;" allowfullscreen="" loading="lazy"
+                            referrerpolicy="no-referrer-when-downgrade" class="general-map"></iframe>
+                            <hr>
+                    </div>
+                </div>
+            </div>
+
+            <div class="offcanvas offcanvas-end" tabindex="-1" id="offcanvasRight"
+                aria-labelledby="offcanvasRightLabel">
+                <div class="offcanvas-header">
+                    <h5 class="offcanvas-title" id="offcanvasRightLabel">Galeria</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+                    <img src="img/Turismo/BalcónDeHuaura/imagen_1_BalconHuaura.png" alt="" class="img-fluid" /><hr>
+                    <img src="img/Turismo/BalcónDeHuaura/imagen_2_BalconDeHuaura.png" alt="" class="img-fluid" /><hr>
+                </div>
+            </div>
+        </div>
+    </section>
+    <script src="js/result.js"></script>
+</body>
+
+</html>

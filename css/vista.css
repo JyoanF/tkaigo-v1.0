@@ -1,0 +1,39 @@
+/**{border: 1px solid black;}*/
+.cont-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card{
+    border: 0;
+}
+.card-bg{
+    position: absolute;
+    max-width: 21rem;
+    filter: brightness(70%);
+}
+.card-body{
+    margin-top: 95px;
+    z-index: 3;
+}
+.card-title{
+    color: white;
+    margin-left: 10px;
+    margin-bottom: 0;
+}
+.card-dir{
+    font-size: .6rem;
+    color: white;
+    margin-left: 10px;
+}
+.cont-map{
+    border: 1px solid #157347;
+}
+.gps-icon{
+    color: white;
+}
+.general-map{
+    border: 1px solid #157347;
+    height: 70vh;
+    width: 100%;
+}

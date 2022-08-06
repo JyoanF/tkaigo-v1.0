@@ -1,0 +1,32 @@
+[
+    {
+        "id":"T1",
+        "nombre":"Balcón de Huaura",
+        "dir_background":"/img/Turismo/portadasPrincipales/portada_turismo_BalconHuaura.png"
+    },
+    {
+        "id":"T2",
+        "nombre":"Casa de La Hacienda Ingenio",
+        "dir_background":"/img/Turismo/portadasPrincipales/portada_turismo_CasaHaciendaIngenio.png"
+    },    
+    {
+        "id":"T3",
+        "nombre":"Playa Centinela",
+        "dir_background":"/img/Turismo/portadasPrincipales/portada_turismo_PlayaCentinela.png"
+    },
+    {
+        "id":"T4",
+        "nombre":"Plaza de Armas",
+        "dir_background":"/img/Turismo/portadasPrincipales/portada_turismo_PlazadeArmasHuaura.png"
+    },
+    {
+        "id":"T5",
+        "nombre":"Ex Hacienda Rontoy",
+        "dir_background":"/img/Turismo/portadasPrincipales/portada_turismo_ExHaciendaRontoyHuaura.png"
+    },
+    {
+        "id":"T6",
+        "nombre":"Basílica Iglesia Nuestra Señora del Carmen",
+        "dir_background":"/img/Turismo/portadasPrincipales/portada_turismo_IglesiadelCarmenHuaura.png"
+    }
+]
